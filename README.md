@@ -7,4 +7,8 @@ B(Build) -->|data| C(Learn)
 C(Learn) -->|ideas| A(Design)
 ```
 
-<p align="right">$For$ $Better$ $Synthetic$ $Biology$</p>
+<p align="right">$For$ $Better$ $Synthetic$ $Biology$ </p>
+<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+
+
